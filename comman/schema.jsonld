@@ -1,0 +1,62 @@
+// schema.jsonld
+{
+    "@context": "https://schema.org",
+    "@graph": [{
+      "@type": "BreadcrumbList",
+      "@id": "https://mineralwaterfillingmachine.in/24-bpm/#breadcrumblist",
+      "itemListElement": [{
+        "@type": "ListItem",
+        "@id": "https://mineralwaterfillingmachine.in/#listItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://mineralwaterfillingmachine.in/",
+        "nextItem": "https://mineralwaterfillingmachine.in/24-bpm/#listItem"
+      }, {
+        "@type": "ListItem",
+        "@id": "https://mineralwaterfillingmachine.in/24-bpm/#listItem",
+        "position": 2,
+        "name": "24 BPM Mineral Water Bottle Rinsing Filling Capping Machine",
+        "previousItem": "https://mineralwaterfillingmachine.in/#listItem"
+      }]
+    }, {
+      "@type": "Organization",
+      "@id": "https://mineralwaterfillingmachine.in/#organization",
+      "name": "Filmatic Systems",
+      "url": "https://mineralwaterfillingmachine.in/"
+    }, {
+      "@type": "WebPage",
+      "@id": "https://mineralwaterfillingmachine.in/24-bpm/#webpage",
+      "url": "https://mineralwaterfillingmachine.in/24-bpm/",
+      "name": "24 BPM Bottle Filling Machine Manufacturer India",
+      "description": "We are leading exporter and manufacturers of 24 BPM Bottle Filling Machine in India.",
+      "inLanguage": "en-US",
+      "isPartOf": {
+        "@id": "https://mineralwaterfillingmachine.in/#website"
+      },
+      "breadcrumb": {
+        "@id": "https://mineralwaterfillingmachine.in/24-bpm/#breadcrumblist"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://mineralwaterfillingmachine.in/wp-content/uploads/2019/01/24bpm.png",
+        "@id": "https://mineralwaterfillingmachine.in/24-bpm/#mainImage",
+        "width": 742,
+        "height": 402
+      },
+      "primaryImageOfPage": {
+        "@id": "https://mineralwaterfillingmachine.in/24-bpm/#mainImage"
+      },
+      "datePublished": "2018-12-26T12:29:15+00:00",
+      "dateModified": "2019-06-19T10:22:41+00:00"
+    }, {
+      "@type": "WebSite",
+      "@id": "https://mineralwaterfillingmachine.in/#website",
+      "url": "https://mineralwaterfillingmachine.in/",
+      "name": "Filmatic Systems",
+      "inLanguage": "en-US",
+      "publisher": {
+        "@id": "https://mineralwaterfillingmachine.in/#organization"
+      }
+    }]
+  }
+  
