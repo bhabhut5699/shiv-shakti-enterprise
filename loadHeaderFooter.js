@@ -4,7 +4,7 @@ window.onload = function() {
         <div class="auto-container">
             <div class="outer-container clearfix">
                 <div class="logo-box">
-                    <div class="logo"> <a href="https://mineralwaterfillingmachine.in/"> <img src="wp-content/uploads/2024/logo.jpeg" alt="Filmatic-systems-logo"> </a></div>
+                    <div class="logo"> <a href="https://mineralwaterfillingmachine.in/"> <img src="wp-content/themes/filmatic/images/white-logo.png" alt="Filmatic-systems-logo"> </a></div>
                 </div>
                 <div class="nav-outer clearfix">
                     <nav class="main-menu">
@@ -53,7 +53,7 @@ window.onload = function() {
                                                 <ul>
                                                     <li> <a href="semi-automatic-shrink-wrapping-machine.html"> FSS Semi </a></li>
                                                     <li> <a href="fully-automatic-shrink-wrapping-machine-fss-60-bpm.html"> FSS 60 BPM </a></li>
-                                                    <li> <a href=fully-automatic-shrink-wrapping-machine-fss-90-bpm.html"> FSS 90 BPM </a></li>
+                                                    <li> <a href="fully-automatic-shrink-wrapping-machine-fss-90-bpm.html"> FSS 90 BPM </a></li>
                                                     <li> <a href="fully-automatic-shrink-wrapping-machine-fss-120-bpm.html"> FSS 120 BPM </a></li>
                                                 </ul>
                                             </div>
@@ -69,7 +69,7 @@ window.onload = function() {
                                                 <h3></h3>
                                                 <ul>
                                                     <li> <a href="fully-automatic-hot-fill-synthetic-juice-filling-machine-90-bpm-based-on-200-ml.html"> FSJC 90 BPM </a></li>
-                                                    <li> <a href=fully-automatic-hot-fill-synthetic-juice-filling-machine-120-bpm-based-on-200-ml.html"> FSJC 120 BPM </a></li>
+                                                    <li> <a href="fully-automatic-hot-fill-synthetic-juice-filling-machine-120-bpm-based-on-200-ml.html"> FSJC 120 BPM </a></li>
                                                     <li> <a href="fully-automatic-hot-fill-synthetic-juice-filling-machine-150-bpm-based-on-200-ml.html"> FSJC 150 BPM </a></li>
                                                 </ul>
                                             </div>
@@ -83,14 +83,17 @@ window.onload = function() {
                                         </div>
                                     </div>
                                 </li>
-                                <li> <a href="https://mineralwaterfillingmachine.in/request-a-quote/">Request Quote</a></li>
-                                <li> <a href="https://mineralwaterfillingmachine.in/contact-us/">Contact Us</a></li>
+                                    
+                                <li> <a href="request-a-quote.html">Request Quote</a></li>
+                                <li> <a href="about-us.html">About Us</a></li>
+                                <li> <a href="contact-us.html">Contact Us</a></li>
+                                
                             </ul>
                         </div>
                     </nav>
                     <div class="outer-box"> <a href="#" class="theme-btn quote-btn" data-toggle="modal" data-target="#schedule-box"> Get a Quote <span class="icon"></span> </a>
                         <ul class="social-icon-one">
-                            <li> <a href="https://www.youtube.com/channel/UCyT5U50aB6OF_9l4CmjzKOQ" target="_blank"> <span class="fa fa-youtube"></span> </a></li>
+                            <li> <a href="https://www.youtube.com/@0508pradip" target="_blank"> <span class="fa fa-youtube"></span> </a></li>
                         </ul>
                     </div>
                 </div>
@@ -101,7 +104,7 @@ window.onload = function() {
         <div class="auto-container">
             <div class="outer-container clearfix">
                 <div class="logo-box pull-left">
-                    <div class="logo"> <a href="index.html"> <img src="wp-content/uploads/2024/logo.jpeg" alt="Filmatic-systems-logo"> </a></div>
+                    <div class="logo"> <a href="index.html"> <img src="wp-content/themes/filmatic/images/logo-color.png" alt="Filmatic-systems-logo"> </a></div>
                 </div>
                 <div class="nav-outer clearfix">
                     <nav class="main-menu">
@@ -150,11 +153,11 @@ window.onload = function() {
                                                 <ul>
                                                     <li> <a href="semi-automatic-shrink-wrapping-machine.html"> FSS Semi </a></li>
                                                     <li> <a href="fully-automatic-shrink-wrapping-machine-fss-60-bpm.html"> FSS 60 BPM </a></li>
-                                                    <li> <a href=fully-automatic-shrink-wrapping-machine-fss-90-bpm.html"> FSS 90 BPM </a></li>
+                                                    <li> <a href="fully-automatic-shrink-wrapping-machine-fss-90-bpm.html"> FSS 90 BPM </a></li>
                                                     <li> <a href="fully-automatic-shrink-wrapping-machine-fss-120-bpm.html"> FSS 120 BPM </a></li>
                                                 </ul>
                                             </div>
-                                            <div class="column col-md-3 col-sm-3 col-xs-12">
+                                            <div class="column col-md-3 col-sm-3 col-xs-12">    
                                                 <h3>Juice Filling Machine</h3>
                                                 <ul>
                                                     <li> <a href="fully-automatic-hot-fill-synthetic-juice-filling-machine-30-bpm-based-on-200-ml.html"> FSJC 30 BPM </a></li>
@@ -166,7 +169,7 @@ window.onload = function() {
                                                 <h3></h3>
                                                 <ul>
                                                     <li> <a href="fully-automatic-hot-fill-synthetic-juice-filling-machine-90-bpm-based-on-200-ml.html"> FSJC 90 BPM </a></li>
-                                                    <li> <a href=fully-automatic-hot-fill-synthetic-juice-filling-machine-120-bpm-based-on-200-ml.html"> FSJC 120 BPM </a></li>
+                                                    <li> <a href="fully-automatic-hot-fill-synthetic-juice-filling-machine-120-bpm-based-on-200-ml.html"> FSJC 120 BPM </a></li>
                                                     <li> <a href="fully-automatic-hot-fill-synthetic-juice-filling-machine-150-bpm-based-on-200-ml.html"> FSJC 150 BPM </a></li>
                                                 </ul>
                                             </div>
@@ -180,8 +183,9 @@ window.onload = function() {
                                         </div>
                                     </div>
                                 </li>
-                                <li> <a href="https://mineralwaterfillingmachine.in/request-a-quote/">Request Quote</a></li>
-                                <li> <a href="https://mineralwaterfillingmachine.in/contact-us/">Contact Us</a></li>
+                                <li> <a href="request-a-quote.html">Request Quote</a></li>
+                                <li> <a href="about-us.html">About Us</a></li>
+                                <li> <a href="contact-us.html">Contact Us</a></li>
                             </ul>
                         </div>
                     </nav>
@@ -197,17 +201,28 @@ document.getElementsByTagName("footer")[0].innerHTML = ` <div class="auto-contai
     <div class="row clearfix">
         <div class="column col-md-4 col-sm-4 col-xs-12">
             <div class="footer-widget logo-widget">
-                <div class="logo"> <a href="https://mineralwaterfillingmachine.in/"> <img src="https://mineralwaterfillingmachine.in/wp-content/uploads/2018/10/white-logo.png" alt="Filmatic-systems-logo" /> </a></div>
-                <div class="widget-content">
-                    <div class="text">Harihar Complex, Unit No. 9,10,11 E17/A, H.No. 938/12, Nasik highway, Dapode,pin 421302, Bhiwandi, Thane Maharastra India.</div>
-                    <ul class="list">
-                        <li>+91 9869 477 960</li>
-                        <li>+91 7700 068 065</li>
-                        <li><br><a href="mailto:sales@filmaticsystems.net">sales@filmaticsystems.net</a><br><br><a href="mailto:info@filmaticsystems.net">info@filmaticsystems.net</a></li>
+                <div class="logo"> <a href=""> <img src="wp-content/themes/filmatic/images/white-logo.png" alt="Shiv-Shakti-Logo" /> </a></div>
+               
+                
+            <div class="widget-content">
+                <div class="text">
+                <p><i class="fa fa-map-marker"></i> Plot No. B/25, Revabhai Industrial Estate, Nr. Ishwarkrupa Weighbridge, CTM, Ahmedabad, Gujarat- 380026</p>
+            </div>
+            <ul class="list">
+                        <li><i class="fa fa-phone"></i> Mr. Pradip Patel</li>
+                        <li><i class="fa fa-phone"></i> Mrs. Sonal Patel</li>
+                        <li><a href="tel:+918490087773"> +91 8490087773 &nbsp</a></li>
+                        <li><a href="tel:+919712666160"> +91 9712666160 &nbsp &nbsp</a></li>
+                        <li><br><i class="fa fa-envelope"></i> <a href="mailto:shivshakti2932@yahoo.com">shivshakti2932@yahoo.com</a></li>
                     </ul>
                     <div class="timing"> <span>Visit Our Office:</span>Monday - Saturday: 9.00am to 5.00pm</div>
                     <ul class="social-icon-one">
-                        <li> <a href="https://www.youtube.com/channel/UCyT5U50aB6OF_9l4CmjzKOQ" target="_blank"> <span class="fa fa-youtube"></span> </a></li>
+                        <li><a class="f" href="https://www.facebook.com/people/Shiv-Shakti-Enterprise/100064590136740/" target="_blank"><i class="fa fa-facebook"></i></a></li>
+										<li><a class="t" href="https://twitter.com/ShivShaktiEnt15" target="_blank"><i class="fa fa-twitter"></i></a></li>
+										<li><a class="y" href="https://wa.me/919712666160" target="_blank"><i class="fa fa-whatsapp"></i></a></li>
+										<li><a class="y" href="https://in.linkedin.com/company/shiv-shakti-enterprises" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+										<li><a class="i" href="https://www.instagram.com/shivshaktien/" target="_blank"><i class="fa fa-instagram"></i></a></li>
+										<li><a class="y" href="https://www.youtube.com/@0508pradip" target="_blank"><i class="fa fa-youtube-play"></i></a></li>
                     </ul>
                 </div>
             </div>
@@ -255,7 +270,7 @@ document.getElementsByTagName("footer")[0].innerHTML = ` <div class="auto-contai
 <div class="footer-bottom">
 <div class="auto-container">
     <div class="copyright">
-        <p>Copyright © 2020-2021 <a href="http://mineralwaterfillingmachine.in/">Filmatic Systems</a> Theme by <a href="https://www.psdtomanythings.com/" target="_blank">psdtomanythings</a> All rights reserved.</p>
+        <p>Copyright © 2020-2021 <a href="">Shiv Shakti Enterprise</a> Theme by <a href="https://www.psdtomanythings.com/" target="_blank">psdtomanythings</a> All rights reserved.</p>
     </div>
 </div>
 </div>`;

@@ -21,7 +21,7 @@
     }, {
       "@type": "Organization",
       "@id": "https://mineralwaterfillingmachine.in/#organization",
-      "name": "Filmatic Systems",
+      "name": "Shiv Shakti Enterprise",
       "url": "https://mineralwaterfillingmachine.in/"
     }, {
       "@type": "WebPage",
@@ -52,7 +52,7 @@
       "@type": "WebSite",
       "@id": "https://mineralwaterfillingmachine.in/#website",
       "url": "https://mineralwaterfillingmachine.in/",
-      "name": "Filmatic Systems",
+      "name": "Shiv Shakti Enterprise",
       "inLanguage": "en-US",
       "publisher": {
         "@id": "https://mineralwaterfillingmachine.in/#organization"
