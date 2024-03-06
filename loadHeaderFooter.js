@@ -18,48 +18,48 @@ window.onload = function() {
                                         <div class="column col-md-3 col-sm-3 col-xs-12">
                                             <h3>Bottle Filling Machine</h3>
                                             <ul>
-                                                <li><a href="water-filling-machine.html">WATER Filling Machine</a></li>
-                                                <li><a href="juice-filling-machine.html">Juice Filling Machine</a></li>
-                                                <li><a href="soda-filling-machine.html">Soda Filling Machine</a></li>
-                                                <li><a href="beer-filling-machine.html">Beer Filling Machine</a></li>
+                                                <li><a href="product/water-filling-machine.html">WATER Filling Machine</a></li>
+                                                <li><a href="product/juice-filling-machine.html">Juice Filling Machine</a></li>
+                                                <li><a href="product/soda-filling-machine.html">Soda Filling Machine</a></li>
+                                                <li><a href="product/beer-filling-machine.html">Beer Filling Machine</a></li>
                                             </ul>
                                         </div>
                                         <div class="column col-md-3 col-sm-3 col-xs-12">
                                             <h3>Labeling Machine</h3>
                                             <ul>
-                                                <li><a href="sticker-labelling-machine.html">Sticker Labelling Machine</a></li>
-                                                <li><a href="bopp-labelling-machine.html">BOPP Labelling Machine</a></li>
+                                                <li><a href="product/sticker-labelling-machine.html">Sticker Labelling Machine</a></li>
+                                                <li><a href="product/bopp-labelling-machine.html">BOPP Labelling Machine</a></li>
                                             </ul>
                                             <br/>
                                             <h3>Pet Blow molding Machine</h3>
                                             <ul>
-                                                <li><a href="fully-automatic-blow-moulding-machine.html">Fully Automatic Blow Moulding Machine</a></li>
-                                                <li><a href="semi-automatic-blow-moulding-machine.html">Semi Automatic Blow Moulding Machine</a></li>
+                                                <li><a href="product/fully-automatic-blow-moulding-machine.html">Fully Automatic Blow Moulding Machine</a></li>
+                                                <li><a href="product/semi-automatic-blow-moulding-machine.html">Semi Automatic Blow Moulding Machine</a></li>
                                             </ul>
                                         </div>
                                         <div class="column col-md-3 col-sm-3 col-xs-12">
                                             <h3>Shrink Wrapping Mahine</h3>
                                             <ul>
-                                                <li><a href="fully-automatic-shrink-wrapping-machine.html">Fully Automatic Shrink Wrapping Machine</a></li>
-                                                <li><a href="semi-automatic-shrink-wrapping-machine.html">Semi Automatic Shrink Wrapping Machine</a></li>
+                                                <li><a href="product/fully-automatic-shrink-wrapping-machine.html">Fully Automatic Shrink Wrapping Machine</a></li>
+                                                <li><a href="product/semi-automatic-shrink-wrapping-machine.html">Semi Automatic Shrink Wrapping Machine</a></li>
                                             </ul>
                                             <br/>
                                             <h3>R.O Plant</h3>
                                             <ul>
-                                                <li><a href="r-o-plant.html">R. O. Plant</a></li>
+                                                <li><a href="product/r-o-plant.html">R. O. Plant</a></li>
                                             </ul>
                                         </div>
                                         <div class="column col-md-3 col-sm-3 col-xs-12">
                                             <h3>Batch Coding Mahine</h3>
                                             <ul>
-                                                <li><a href="inkjet-batch-coding.html">Inkjet Batch Coding</a></li>
+                                                <li><a href="product/inkjet-batch-coding.html">Inkjet Batch Coding</a></li>
                                             </ul>
                                         </div>
                                         <div class="column col-md-3 col-sm-3 col-xs-12">
                                             <h3>Lab for Testing</h3>
                                             <ul>
-                                                <li><a href="chemical-lab.html">Chemical Lab</a></li>
-                                                <li><a href="micro-biology-lab.html">Micro-Biology Lab</a></li>
+                                                <li><a href="product/chemical-lab.html">Chemical Lab</a></li>
+                                                <li><a href="product/micro-biology-lab.html">Micro-Biology Lab</a></li>
                                             </ul>
                                         </div>
                                     </div>
