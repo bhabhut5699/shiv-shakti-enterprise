@@ -4,7 +4,7 @@ window.onload = function() {
         <div class="auto-container">
             <div class="outer-container clearfix">
                 <div class="logo-box">
-                    <div class="logo"> <a href="https://mineralwaterfillingmachine.in/"> <img src="wp-content/themes/filmatic/images/white-logo.png" alt="Filmatic-systems-logo"> </a></div>
+                    <div class="logo"> <a href="https://mineralwaterfillingmachine.in/"> <img src="../wp-content/themes/filmatic/images/white-logo.png" alt="Shiv Shakti-logo"> </a></div>
                 </div>
                 <div class="nav-outer clearfix">
                 <nav class="main-menu">
@@ -18,48 +18,48 @@ window.onload = function() {
                                         <div class="column col-md-3 col-sm-3 col-xs-12">
                                             <h3>Bottle Filling Machine</h3>
                                             <ul>
-                                                <li><a href="product/water-filling-machine.html">WATER Filling Machine</a></li>
-                                                <li><a href="product/juice-filling-machine.html">Juice Filling Machine</a></li>
-                                                <li><a href="product/soda-filling-machine.html">Soda Filling Machine</a></li>
-                                                <li><a href="product/beer-filling-machine.html">Beer Filling Machine</a></li>
+                                                <li><a href="water-filling-machine.html">WATER Filling Machine</a></li>
+                                                <li><a href="juice-filling-machine.html">Juice Filling Machine</a></li>
+                                                <li><a href="soda-filling-machine.html">Soda Filling Machine</a></li>
+                                                <li><a href="beer-filling-machine.html">Beer Filling Machine</a></li>
                                             </ul>
                                         </div>
                                         <div class="column col-md-3 col-sm-3 col-xs-12">
                                             <h3>Labeling Machine</h3>
                                             <ul>
-                                                <li><a href="product/sticker-labelling-machine.html">Sticker Labelling Machine</a></li>
-                                                <li><a href="product/bopp-labelling-machine.html">BOPP Labelling Machine</a></li>
+                                                <li><a href="sticker-labelling-machine.html">Sticker Labelling Machine</a></li>
+                                                <li><a href="bopp-labelling-machine.html">BOPP Labelling Machine</a></li>
                                             </ul>
                                             <br/>
                                             <h3>Pet Blow molding Machine</h3>
                                             <ul>
-                                                <li><a href="product/fully-automatic-blow-moulding-machine.html">Fully Automatic Blow Moulding Machine</a></li>
-                                                <li><a href="product/semi-automatic-blow-moulding-machine.html">Semi Automatic Blow Moulding Machine</a></li>
+                                                <li><a href="fully-automatic-blow-moulding-machine.html">Fully Automatic Blow Moulding Machine</a></li>
+                                                <li><a href="semi-automatic-blow-moulding-machine.html">Semi Automatic Blow Moulding Machine</a></li>
                                             </ul>
                                         </div>
                                         <div class="column col-md-3 col-sm-3 col-xs-12">
                                             <h3>Shrink Wrapping Mahine</h3>
                                             <ul>
-                                                <li><a href="product/fully-automatic-shrink-wrapping-machine.html">Fully Automatic Shrink Wrapping Machine</a></li>
-                                                <li><a href="product/semi-automatic-shrink-wrapping-machine.html">Semi Automatic Shrink Wrapping Machine</a></li>
+                                                <li><a href="fully-automatic-shrink-wrapping-machine.html">Fully Automatic Shrink Wrapping Machine</a></li>
+                                                <li><a href="semi-automatic-shrink-wrapping-machine.html">Semi Automatic Shrink Wrapping Machine</a></li>
                                             </ul>
                                             <br/>
                                             <h3>R.O Plant</h3>
                                             <ul>
-                                                <li><a href="product/r-o-plant.html">R. O. Plant</a></li>
+                                                <li><a href="r-o-plant.html">R. O. Plant</a></li>
                                             </ul>
                                         </div>
                                         <div class="column col-md-3 col-sm-3 col-xs-12">
                                             <h3>Batch Coding Mahine</h3>
                                             <ul>
-                                                <li><a href="product/inkjet-batch-coding.html">Inkjet Batch Coding</a></li>
+                                                <li><a href="inkjet-batch-coding.html">Inkjet Batch Coding</a></li>
                                             </ul>
                                         </div>
                                         <div class="column col-md-3 col-sm-3 col-xs-12">
                                             <h3>Lab for Testing</h3>
                                             <ul>
-                                                <li><a href="product/chemical-lab.html">Chemical Lab</a></li>
-                                                <li><a href="product/micro-biology-lab.html">Micro-Biology Lab</a></li>
+                                                <li><a href="chemical-lab.html">Chemical Lab</a></li>
+                                                <li><a href="micro-biology-lab.html">Micro-Biology Lab</a></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -87,70 +87,70 @@ window.onload = function() {
         <div class="auto-container">
             <div class="outer-container clearfix">
                 <div class="logo-box pull-left">
-                    <div class="logo"> <a href="index.html"> <img src="wp-content/themes/filmatic/images/logo-color.png" alt="Filmatic-systems-logo"> </a></div>
+                    <div class="logo"> <a href="index.html"> <img src="../wp-content/themes/filmatic/images/logo-color.png" alt="Shiv Shakti-logo"> </a></div>
                 </div>
                 <div class="nav-outer clearfix">
                     <nav class="main-menu">
                         <div class="navbar-header"> <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button></div>
                         <div class="navbar-collapse collapse clearfix">
                             <ul class="navigation clearfix">
-                                <li> <a href="index.html">home</a></li>
+                                <li> <a href="../index.html">home</a></li>
                                 <li class="has-mega-menu dropdown"> <a href="">Products</a>
                                     <div class="mega-menu" style="background-image:url(D:\project\water\mineralwaterfillingmachine.in\wp-content\themes\filmatic\images\background\mega-menu-layer.png)">
                                         <div class="mega-menu-bar row clearfix">
                                         <div class="column col-md-3 col-sm-3 col-xs-12">
                                         <h3>Bottle Filling Machine</h3>
                                         <ul>
-                                            <li><a href="product/water-filling-machine.html">WATER Filling Machine</a></li>
-                                            <li><a href="product/juice-filling-machine.html">Juice Filling Machine</a></li>
-                                            <li><a href="product/soda-filling-machine.html">Soda Filling Machine</a></li>
-                                            <li><a href="product/beer-filling-machine.html">Beer Filling Machine</a></li>
+                                            <li><a href="water-filling-machine.html">WATER Filling Machine</a></li>
+                                            <li><a href="juice-filling-machine.html">Juice Filling Machine</a></li>
+                                            <li><a href="soda-filling-machine.html">Soda Filling Machine</a></li>
+                                            <li><a href="beer-filling-machine.html">Beer Filling Machine</a></li>
                                         </ul>
                                     </div>
                                     <div class="column col-md-3 col-sm-3 col-xs-12">
                                         <h3>Labeling Machine</h3>
                                         <ul>
-                                            <li><a href="product/sticker-labelling-machine.html">Sticker Labelling Machine</a></li>
-                                            <li><a href="product/bopp-labelling-machine.html">BOPP Labelling Machine</a></li>
+                                            <li><a href="sticker-labelling-machine.html">Sticker Labelling Machine</a></li>
+                                            <li><a href="bopp-labelling-machine.html">BOPP Labelling Machine</a></li>
                                         </ul>
                                         <br/>
                                         <h3>Pet Blow molding Machine</h3>
                                         <ul>
-                                            <li><a href="product/fully-automatic-blow-moulding-machine.html">Fully Automatic Blow Moulding Machine</a></li>
-                                            <li><a href="product/semi-automatic-blow-moulding-machine.html">Semi Automatic Blow Moulding Machine</a></li>
+                                            <li><a href="fully-automatic-blow-moulding-machine.html">Fully Automatic Blow Moulding Machine</a></li>
+                                            <li><a href="semi-automatic-blow-moulding-machine.html">Semi Automatic Blow Moulding Machine</a></li>
                                         </ul>
                                     </div>
                                     <div class="column col-md-3 col-sm-3 col-xs-12">
                                         <h3>Shrink Wrapping Mahine</h3>
                                         <ul>
-                                            <li><a href="product/fully-automatic-shrink-wrapping-machine.html">Fully Automatic Shrink Wrapping Machine</a></li>
-                                            <li><a href="product/semi-automatic-shrink-wrapping-machine.html">Semi Automatic Shrink Wrapping Machine</a></li>
+                                            <li><a href="fully-automatic-shrink-wrapping-machine.html">Fully Automatic Shrink Wrapping Machine</a></li>
+                                            <li><a href="semi-automatic-shrink-wrapping-machine.html">Semi Automatic Shrink Wrapping Machine</a></li>
                                         </ul>
                                         <br/>
                                         <h3>R.O Plant</h3>
                                         <ul>
-                                            <li><a href="product/r-o-plant.html">R. O. Plant</a></li>
+                                            <li><a href="r-o-plant.html">R. O. Plant</a></li>
                                         </ul>
                                     </div>
                                     <div class="column col-md-3 col-sm-3 col-xs-12">
                                         <h3>Batch Coding Mahine</h3>
                                         <ul>
-                                            <li><a href="product/inkjet-batch-coding.html">Inkjet Batch Coding</a></li>
+                                            <li><a href="inkjet-batch-coding.html">Inkjet Batch Coding</a></li>
                                         </ul>
                                     </div>
                                     <div class="column col-md-3 col-sm-3 col-xs-12">
                                         <h3>Lab for Testing</h3>
                                         <ul>
-                                            <li><a href="product/chemical-lab.html">Chemical Lab</a></li>
-                                            <li><a href="product/micro-biology-lab.html">Micro-Biology Lab</a></li>
+                                            <li><a href="chemical-lab.html">Chemical Lab</a></li>
+                                            <li><a href="micro-biology-lab.html">Micro-Biology Lab</a></li>
                                         </ul>
                                             </div>
                                         </div>
                                     </div>
                                 </li>
-                                <li> <a href="request-a-quote.html">Request Quote</a></li>
-                                <li> <a href="about-us.html">About Us</a></li>
-                                <li> <a href="contact-us.html">Contact Us</a></li>
+                                <li> <a href="../request-a-quote.html">Request Quote</a></li>
+                                <li> <a href="../about-us.html">About Us</a></li>
+                                <li> <a href="../contact-us.html">Contact Us</a></li>
                             </ul>
                         </div>
                     </nav>
@@ -166,7 +166,7 @@ document.getElementsByTagName("footer")[0].innerHTML = ` <div class="auto-contai
     <div class="row clearfix">
         <div class="column col-md-4 col-sm-4 col-xs-12">
             <div class="footer-widget logo-widget">
-                <div class="logo"> <a href=""> <img src="wp-content/themes/filmatic/images/white-logo.png" alt="Shiv-Shakti-Logo" /> </a></div>
+                <div class="logo"> <a href=""> <img src="../wp-content/themes/filmatic/images/white-logo.png" alt="Shiv-Shakti-Logo" /> </a></div>
                
                 
             <div class="widget-content">
@@ -198,10 +198,10 @@ document.getElementsByTagName("footer")[0].innerHTML = ` <div class="auto-contai
                     <h2>Useful Links</h2>
                 </div>
                 <ul class="links">
-                    <li> <a href="about-us.html"> About Us </a></li>
-                    <li> <a href="products.html"> Our Products </a></li>
-                    <li> <a href="request-a-quote.html"> Request Quote </a></li>
-                    <li> <a href="contact-us.html"> Contact Us </a></li>
+                    <li> <a href="../about-us.html"> About Us </a></li>
+                    <li> <a href="../products.html"> Our Products </a></li>
+                    <li> <a href="../request-a-quote.html"> Request Quote </a></li>
+                    <li> <a href="../contact-us.html"> Contact Us </a></li>
                 </ul>
             </div>
         </div>
